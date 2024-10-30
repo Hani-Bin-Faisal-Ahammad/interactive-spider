@@ -16,3 +16,6 @@ A mesmerizing, interactive spider-web animation using HTML5 Canvas and JavaScrip
 * interactive spider.html: The main HTML file linking the CSS and JavaScript.
 * interactive spider.css: Sets up the canvas and styling for a full-screen experience.
 * interactive spider.js: The core logic behind the spider's interactive movement.
+
+## Source
+This Code is taken from https://www.instagram.com/the_coding_wizard/
