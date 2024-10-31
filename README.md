@@ -3,6 +3,9 @@ A mesmerizing, interactive spider-web animation using HTML5 Canvas and JavaScrip
 
 ## Demo 🎬
 [![Interactive Spider Demo](demo.gif)](https://theinteractivespider.vercel.app/)
+<div align="center">
+Click on the gif to try!
+</div>
 
 ## ✨ Features
 * Responsive Animation: The spider-web effect adapts to mouse movements, creating a fluid, captivating visual.
