@@ -2,7 +2,7 @@
 A mesmerizing, interactive spider-web animation using HTML5 Canvas and JavaScript. This animation responds to mouse movement, creating a dynamic web effect that feels alive on the screen.
 
 ## Demo 🎬
-![Interactive Spider Demo](demo.gif)
+[![Interactive Spider Demo](demo.gif)](https://theinteractivespider.vercel.app/)
 
 ## ✨ Features
 * Responsive Animation: The spider-web effect adapts to mouse movements, creating a fluid, captivating visual.
