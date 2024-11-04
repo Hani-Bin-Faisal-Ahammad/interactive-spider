@@ -4,7 +4,7 @@ A mesmerizing, interactive spider-web animation using HTML5 Canvas and JavaScrip
 ## Demo 🎬
 [![Interactive Spider Demo](demo.gif)](https://theinteractivespider.vercel.app/)
 <div align="center">
-Click on the gif to try!
+Click on the gif to try! or click on the link given in about.
 </div>
 
 ## ✨ Features
